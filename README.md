@@ -4,8 +4,9 @@ Minimal implementation with just the essentials:
 - CSV parsing
 - Agent calculation  
 - 24-hour output
+- Tests
 
-**No tests, no validation, no fancy features.**
+**No Fancy Features**
 
 ## Files
 
