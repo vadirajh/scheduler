@@ -1,4 +1,4 @@
-# Bare Bones Scheduler - MVP Only
+# First Cut Scheduler - MVP Only
 
 Minimal implementation with just the essentials:
 - CSV parsing
