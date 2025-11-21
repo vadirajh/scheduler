@@ -1,0 +1,5 @@
+I would focus on the things that unblock real usage: 
+    1. Validation so bad inputs fail fast with good error messages
+    2. JSON/CSV outputs since different stakeholders need different formats, and 
+    3. a utilization parameter since staffing involves cost-safety tradeoffs.
+I would skip nice-to-haves like a web UI for now—the CLI is powerful enough and can be called from anywhere.
